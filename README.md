@@ -1,6 +1,8 @@
 # 👋 Hey there, welcome to my GitHub!  
 
-<div class="tenor-gif-embed" data-postid="1151552545602870447" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-cats-tabby-cat-fortnite-fortnite-dance-gif-1151552545602870447">Cat Cats Sticker</a>from <a href="https://tenor.com/search/cat-stickers">Cat Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://tenor.com/bxehMuWvb9n.gif" width="250" alt="Coding GIF">
+</p>
 
 ---
 
