@@ -8,13 +8,25 @@
 
 ## 🚀 About Me  
 
-Hi! I'm **AutoCookies**,  
+Hi! I'm **AutoCookies**  
 🎓 A student who loves building, breaking, and re-creating things.  
 🌱 Always curious about how stuff works under the hood.  
 💡 My motto: **_"Be a creator, not a person just know to use existing solutions."_**
 
 Although I'm still early in my career, I believe **creativity > experience**.  
 Every repo here is a piece of my journey — some are projects, some are experiments, some are just for fun!  
+
+---
+
+## 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
+</p>
 
 ---
 
@@ -42,22 +54,36 @@ Every repo here is a piece of my journey — some are projects, some are experim
 - 🎮 Love playing strategy games in free time.  
 - 🛠 Always tinkering with random side-projects.  
 
+---
 
-## 🔗 Connect with Me  
+## 🎥 My Channel & Videos  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/quan-van-15a5b3248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="vanhaminhquan2406@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"></a>
+  <a href="https://www.youtube.com/watch?v=JmIDr2x64_k" target="_blank">
+    <img src="https://img.youtube.com/vi/JmIDr2x64_k/0.jpg" width="300" alt="Video 1"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=LtY5HDDvKoI" target="_blank">
+    <img src="https://img.youtube.com/vi/LtY5HDDvKoI/0.jpg" width="300" alt="Video 2"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=-moC4k_gCFQ" target="_blank">
+    <img src="https://img.youtube.com/vi/-moC4k_gCFQ/0.jpg" width="300" alt="Video 3"/>
+  </a>
 </p>
 
 ---
 
-## My channel and some Videos
+## 🔗 Connect with Me  
+
 <p align="center">
-  <a href="https://youtu.be/JmIDr2x64_k?si=ylNequmsoKAjQG2w" target="_blank"></a>
-  <a href="https://youtu.be/LtY5HDDvKoI?si=nIVW-xRnMJZXD_J6"></a>
-  <a href="https://youtu.be/-moC4k_gCFQ?si=r9gQJfxkAsOz75sK"></a>
+  <a href="https://www.linkedin.com/in/quan-van-15a5b3248/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="mailto:vanhaminhquan2406@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge">
+  </a>
 </p>
+
+---
 
 <p align="center">
   ⭐️ If you like my work, consider giving it a star. Let’s build something amazing together!
