@@ -36,6 +36,13 @@ Every repo here is a piece of my journey — some are projects, some are experim
 
 ---
 
+## 🎲 Fun Facts  
+
+- 🐱 Cat lover & coffee addict.  
+- 🎮 Love playing strategy games in free time.  
+- 🛠 Always tinkering with random side-projects.  
+
+
 ## 🔗 Connect with Me  
 
 <p align="center">
@@ -44,6 +51,13 @@ Every repo here is a piece of my journey — some are projects, some are experim
 </p>
 
 ---
+
+## My channel and some Videos
+<p align="center">
+  <a href="https://youtu.be/JmIDr2x64_k?si=ylNequmsoKAjQG2w" target="_blank"></a>
+  <a href="https://youtu.be/LtY5HDDvKoI?si=nIVW-xRnMJZXD_J6"></a>
+  <a href="https://youtu.be/-moC4k_gCFQ?si=r9gQJfxkAsOz75sK"></a>
+</p>
 
 <p align="center">
   ⭐️ If you like my work, consider giving it a star. Let’s build something amazing together!
