@@ -1,117 +1,87 @@
-# 👋 Hey there, welcome to my GitHub!  
+# 👋 Welcome to AutoCookies' GitHub  
 
 <p align="center">
-  <img src="./cat.gif" width="250" alt="Coding GIF">
+  <img src="./cat.gif" width="220" alt="Coding Cat"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+there!+I+am+AutoCookies;AI+%7C+Fullstack+Dev+%7C+Product+Builder\" alt="Typing Intro" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-Hi! I'm **AutoCookies**  
-🎓 A student who loves building, breaking, and re-creating things.  
-🌱 Always curious about how stuff works under the hood.  
-💡 My motto: **_"Be a creator, not a person just know to use existing solutions."_**
+🎓 A passionate **student & builder** who loves creating products, breaking limits, and re-imagining solutions.  
+🌱 Curious about **AI, System Design, and Product Development**.  
+💡 Motto: *"Be a creator, not just a user."*  
 
-Although I'm still early in my career, I believe **creativity > experience**.  
-Every repo here is a piece of my journey — some are projects, some are experiments, some are just for fun!  
+✨ Every repo is a story — some are serious projects, others are experiments, but all reflect my growth journey.  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AutoCookies&show_icons=true&theme=radical" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=AutoCookies&theme=highcontrast&hide_border=true" height="180"/>
+</p>
 
 ---
 
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <!-- Programming Languages -->
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
+  
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge"/>
-
-  <!-- Database & API -->
+  
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-REST%20API-005571?logo=postman&logoColor=white&style=for-the-badge"/>
 
-  <!-- DevOps & System -->
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
+  <!-- DevOps -->
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
 
   <!-- AI/ML -->
   <img src="https://img.shields.io/badge/-Machine%20Learning-102230?logo=tensorflow&logoColor=orange&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?logo=pytorch&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Statistics-7952B3?style=for-the-badge"/>
-
-  <!-- Business & Product -->
-  <img src="https://img.shields.io/badge/-Business%20Analytics-0A66C2?logo=tableau&logoColor=white&style=for-the-badge"/>
+  
+  <!-- Business -->
   <img src="https://img.shields.io/badge/-Product%20Owner-FF4088?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Business%20Analytics-0A66C2?logo=tableau&logoColor=white&style=for-the-badge"/>
 </p>
-
----
-
-## 📚 What You’ll Find Here  
-
-🔹 **Study Projects** – assignments, learning exercises, and explorations.  
-🔹 **Fun Experiments** – random ideas turned into code.  
-🔹 **Open-source Love** – small contributions & attempts to give back.  
-
----
-
-## 🎯 Vision  
-
-> "I don’t just want to **use** solutions.  
-> I want to **create** them."  
-
-💻 I dream of turning ideas into real products.  
-✨ One repo at a time, I'm shaping my skills.  
-
----
-
-## 🎲 Fun Facts  
-
-- 🐱 Cat lover & coffee addict.  
-- 🎮 Love playing strategy games in free time.  
-- 🛠 Always tinkering with random side-projects.  
 
 ---
 
 ## 🛤 My Journey Roadmap  
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/344/road.png" width="200" alt="Roadmap"/>
+  <img src="https://img.icons8.com/fluency/344/road.png" width="200"/>
 </p>
-
-Here’s the path I’ve been walking so far 🚀  
 
 ```mermaid
 timeline
     title Career & Experience Timeline
     2022 Jul - Present : 🧪 **Scientific Research Assistant**  
-          🔹 Machine Learning & Deep Learning research  
-          🔹 Data Mining (Apriori, FP-Growth)  
+          🔹 ML & DL research | Data Mining  
           🔹 Published reports & experiments  
 
     2024 Aug - Present : 💻 **Freelancer Developer**  
-          🔹 Backend systems with NestJS & ExpressJS  
-          🔹 API & database design (MongoDB, MySQL)  
-          🔹 Built AI Smart Systems & deployed with Docker  
+          🔹 Backend with NestJS, ExpressJS  
+          🔹 AI Smart Systems | Docker Deploy  
 
-    2025 Jul - Present : 📊 **Product Owner & Business Analyst** at CrossTech  
-          🔹 Wrote use cases, user stories  
-          🔹 Collaborated with UI/UX & dev teams  
-          🔹 Agile/Scrum project planning  
+    2025 Jul - Present : 📊 **Product Owner & Business Analyst** @ CrossTech  
+          🔹 Agile/Scrum, UI/UX collab, requirement docs  
 
-    2025 Aug - Present : 🤖 **AI Intern at MOCHIMIN**  
-          🔹 Research & Apply AI  
-          🔹 Built AI Micro-tools  
-          🔹 Deploy products on Azure Cloud
+    2025 Aug - Present : 🤖 **AI Intern** @ MOCHIMIN  
+          🔹 AI micro-tools | Azure Cloud deployment  
 ```
 
 ## 🏅 My Certifications  
