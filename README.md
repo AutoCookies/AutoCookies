@@ -66,6 +66,10 @@ Every repo here is a piece of my journey — some are projects, some are experim
   <a href="https://coursera.org/share/658c1cedabb95e07d50ecbc61c9f0ed4" target="_blank">
     <img src="https://img.shields.io/badge/Coursera%20-%20Data%20Analytics-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Certificate"/>
   </a>
+  
+  <a href="https://coursera.org/share/71adfc091540025716b80894b0b22976" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera%20-%20Deep%20Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Certificate"/>
+  </a>
 </p>
 
 <p align="center">
