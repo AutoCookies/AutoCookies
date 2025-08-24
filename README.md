@@ -82,6 +82,38 @@ Every repo here is a piece of my journey — some are projects, some are experim
 
 ---
 
+## 🛤 My Journey Roadmap  
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/344/road.png" width="200" alt="Roadmap"/>
+</p>
+
+Here’s the path I’ve been walking so far 🚀  
+
+```mermaid
+timeline
+    title Career & Experience Timeline
+    2022 Jul - Present : 🧪 **Scientific Research Assistant**  
+          🔹 Machine Learning & Deep Learning research  
+          🔹 Data Mining (Apriori, FP-Growth)  
+          🔹 Published reports & experiments  
+
+    2024 Aug - Present : 💻 **Freelancer Developer**  
+          🔹 Backend systems with NestJS & ExpressJS  
+          🔹 API & database design (MongoDB, MySQL)  
+          🔹 Built AI Smart Systems & deployed with Docker  
+
+    2025 Jul - Present : 📊 **Product Owner & Business Analyst** at CrossTech  
+          🔹 Wrote use cases, user stories  
+          🔹 Collaborated with UI/UX & dev teams  
+          🔹 Agile/Scrum project planning  
+
+    2025 Aug - Present : 🤖 **AI Intern at MOCHIMIN**  
+          🔹 Research & Apply AI  
+          🔹 Built AI Micro-tools  
+          🔹 Deploy products on Azure Cloud
+```
+
 ## 🏅 My Certifications  
 
 <p align="center">
