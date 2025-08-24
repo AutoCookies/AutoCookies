@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+there!+I+am+AutoCookies;AI+%7C+Fullstack+Dev+%7C+Product+Builder" alt="Typing Intro" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AutoCookies&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ## 🚀 About Me  
