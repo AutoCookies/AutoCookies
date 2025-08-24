@@ -56,6 +56,20 @@ Every repo here is a piece of my journey — some are projects, some are experim
 
 ---
 
+## 🏅 My Certifications  
+
+<p align="center">
+  <a href="https://www.hackerrank.com/certificates/iframe/aa7aa19ea47a" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank%20Certification-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate"/>
+  </a>
+</p>
+
+<p align="center">
+  🎓 Verified certificate from HackerRank – <i>Problem Solving</i>
+</p>
+
+---
+
 ## 🎥 My Channel & Videos  
 
 <p align="center">
