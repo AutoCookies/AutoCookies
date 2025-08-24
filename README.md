@@ -100,8 +100,13 @@ Every repo here is a piece of my journey — some are projects, some are experim
   <a href="https://www.linkedin.com/in/quan-van-15a5b3248/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
+  
   <a href="mailto:vanhaminhquan2406@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge">
+  </a>
+  
+  <a href="https://youtube.com/@cookiescooker-tuni?si=BIBegyBpzAb-bCys" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge">
   </a>
 </p>
 
