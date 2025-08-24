@@ -96,10 +96,14 @@ Every repo here is a piece of my journey — some are projects, some are experim
   <a href="https://coursera.org/share/71adfc091540025716b80894b0b22976" target="_blank">
     <img src="https://img.shields.io/badge/Coursera%20-%20Deep%20Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Certificate"/>
   </a>
+
+  <a href="https://www.linkedin.com/learning/certificates/9f4f06f1bdca233872e5a862dc1d15fa95d1d4de3b270bf6394061eadcbd1def" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn%20Learning%20-%20Business%20Analysis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Certificate"/>
+  </a>
 </p>
 
 <p align="center">
-  🎓 Verified certifications from <b>HackerRank</b> & <b>Coursera</b>  
+  🎓 Verified certifications from <b>HackerRank</b>, <b>Coursera</b> & <b>LinkedIn Learning</b>  
 </p>
 
 ---
