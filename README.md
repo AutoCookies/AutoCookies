@@ -60,12 +60,16 @@ Every repo here is a piece of my journey — some are projects, some are experim
 
 <p align="center">
   <a href="https://www.hackerrank.com/certificates/iframe/aa7aa19ea47a" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank%20Certification-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate"/>
+    <img src="https://img.shields.io/badge/HackerRank%20-%20Problem%20Solving-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certificate"/>
+  </a>
+  
+  <a href="https://coursera.org/share/658c1cedabb95e07d50ecbc61c9f0ed4" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera%20-%20Machine%20Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Certificate"/>
   </a>
 </p>
 
 <p align="center">
-  🎓 Verified certificate from HackerRank – <i>Problem Solving</i>
+  🎓 Verified certifications from <b>HackerRank</b> & <b>Coursera</b>  
 </p>
 
 ---
