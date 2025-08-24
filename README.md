@@ -98,7 +98,7 @@ Every repo here is a piece of my journey — some are projects, some are experim
   </a>
 
   <a href="https://www.linkedin.com/learning/certificates/9f4f06f1bdca233872e5a862dc1d15fa95d1d4de3b270bf6394061eadcbd1def" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn%20Learning%20-%20Business%20Analysis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Certificate"/>
+    <img src="https://img.shields.io/badge/LinkedIn%20Learning%20-%20Javascripts-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Certificate"/>
   </a>
 </p>
 
