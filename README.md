@@ -1,2 +1,1 @@
-# AutoCookies
- A Social Web made by GenZ dev
+Hey! Welcome to my Github page
