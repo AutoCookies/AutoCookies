@@ -1,7 +1,7 @@
 # 👋 Hey there, welcome to my GitHub!  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250" alt="Coding GIF">
+  <img src="./cat.gif" width="250" alt="Coding GIF">
 </p>
 
 ---
