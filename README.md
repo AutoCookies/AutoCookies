@@ -229,8 +229,3 @@ Each project is linked with a short description and key tech stack for clarity.
   </sub>  
 
 ---
-
-## 📫 Connect  
-
-- GitHub: [@AutoCookies](https://github.com/AutoCookies)  
-- LinkedIn: *(add link if available)*  
