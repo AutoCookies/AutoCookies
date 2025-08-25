@@ -163,4 +163,8 @@ timeline
   <a href="https://github.com/AutoCookies/cookies/tree/test_zerotrust"><b>🍪 Cookies Social Webapp</b></a>  
   <br/>
   <sub>Frontend: <b>NextJS</b> | Backend: <b>ExpressJS</b>, <b>Redis</b>, <b>Cloudinary</b> | Database: <b>MongoDB</b></sub>
+
+  <a href="https://github.com/AutoCookies/cookiescv"><b>🍪 Cookies Employment Platform</b></a>  
+  <br/>
+  <sub>Frontend: <b>NextJS</b> | Backend: <b>ExpressJS</b>, <b>Cloudinary</b> | Database: <b>MongoDB</b></sub>
 </p>
