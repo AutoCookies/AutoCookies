@@ -162,9 +162,35 @@ timeline
 
   <a href="https://github.com/AutoCookies/cookies/tree/test_zerotrust"><b>🍪 Cookies Social Webapp</b></a>  
   <br/>
-  <sub>Frontend: <b>NextJS</b> | Backend: <b>ExpressJS</b>, <b>Redis</b>, <b>Cloudinary</b> | Database: <b>MongoDB</b></sub>
+  <sub>Frontend: <b>NextJS</b> | Backend: <b>ExpressJS</b>, <b>Redis</b>, <b>Cloudinary</b> | Database: <b>MongoDB</b></sub>  
+  <br/><br/>
 
-  <a href="https://github.com/AutoCookies/cookiescv"><b>🍪 Cookies Employment Platform</b></a>  
+  <a href="https://github.com/AutoCookies/cookiescv"><b>💼 Cookies Employment Platform</b></a>  
   <br/>
-  <sub>Frontend: <b>NextJS</b> | Backend: <b>ExpressJS</b>, <b>Cloudinary</b> | Database: <b>MongoDB</b></sub>
+  <sub>Frontend: <b>NextJS</b> | Backend: <b>ExpressJS</b>, <b>Cloudinary</b> | Database: <b>MongoDB</b></sub>  
+  <br/><br/>
+
+  <a href="https://github.com/AutoCookies/funeral_website"><b>⚰️ Funeral Service Website</b></a>  
+  <br/>
+  <sub>Built with <b>ASP.NET Core</b> and <b>SQL Server</b></sub>  
+  <br/><br/>
+
+  <a href="https://github.com/AutoCookies/auction_system_fe"><b>🔨 Auction Management System</b></a>  
+  <br/>
+  <sub>Built with <b>NextJS</b>, <b>ExpressJS</b>, <b>Cloudinary</b>, and <b>MongoDB</b></sub>  
+  <br/><br/>
+
+  <a href="https://github.com/AutoCookies/one_kind_word"><b>💌 One Kind Word</b></a>  
+  <br/>
+  <sub>Built with <b>NextJS</b> and <b>MongoDB</b></sub>  
+  <br/><br/>
+
+  <a href="https://github.com/AutoCookies/BBN-Implementation"><b>🧠 BBN Implementation (Bilateral-Branch Network)</b></a>  
+  <br/>
+  <sub>Re-implementation of the paper:<br/>  
+  Zhou, B., Cui, Q., Wei, X. S., & Chen, Z. M. (2020).  
+  <i>BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition</i>.  
+  In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 9719–9728).  
+  <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_BBN_Bilateral-Branch_Network_With_Cumulative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf">[[Paper Link]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_BBN_Bilateral-Branch_Network_With_Cumulative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.html)</a>  
+  </sub>
 </p>
