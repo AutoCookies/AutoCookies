@@ -151,3 +151,16 @@ timeline
 <p align="center">
   ⭐️ If you like my work, consider giving it a star. Let’s build something amazing together!
 </p>
+
+## 🚀 Discover My Projects  
+
+<p>
+  <a href="https://github.com/AutoCookies/todo_list_app"><b>📌 Todo List App</b></a>  
+  <br/>
+  <sub>Built with <b>Flutter</b>, <b>Firebase</b>, and <b>SQLite</b></sub>  
+  <br/><br/>
+
+  <a href="https://github.com/AutoCookies/cookies/tree/test_zerotrust"><b>🍪 Cookies Social Webapp</b></a>  
+  <br/>
+  <sub>Frontend: <b>NextJS</b> | Backend: <b>ExpressJS</b>, <b>Redis</b>, <b>Cloudinary</b> | Database: <b>MongoDB</b></sub>
+</p>
