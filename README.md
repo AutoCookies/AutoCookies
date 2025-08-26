@@ -141,6 +141,13 @@ Each project is linked with a short description and key tech stack for clarity.
 
 ---
 
+## My Livestream Repository
+
+- <a href="https://github.com/AutoCookies/go_self_taught"><b>🕵️‍♂️ Anomaly Activities Detection Realtime</b></a>  
+  <sub>A self-taught Go Programming Language</sub>
+
+---
+
 ## 🛤 My Journey Roadmap  
 
 <p align="center">
