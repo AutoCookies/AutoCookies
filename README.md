@@ -107,7 +107,10 @@ Each project is linked with a short description and key tech stack for clarity.
 - <a href="https://github.com/AutoCookies/Tasks_Manager-CLI"><b>📝 Task Tracker CLI</b></a>  
   <sub>CLI-based task management with JSON storage.  
   Supports add, update, delete, and status tracking (<code>todo</code>, <code>in-progress</code>, <code>done</code>).  
-  Built with pure <b>Python</b>.</sub>  
+  Built with pure <b>Python</b>.</sub>
+
+- <a href="https://github.com/AutoCookies/Smart_Key_Logger"><b>Smart Key Logger</b></a>  
+  <sub>Built with C++ for tracking the Keyboard and train AI model</sub>
 
 ---
 
