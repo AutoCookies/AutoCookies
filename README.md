@@ -135,7 +135,7 @@ Each project is linked with a short description and key tech stack for clarity.
   Fully compatible with <b>Pandas</b> & <b>OpenCV</b>.
   </sub>
   
-- <a href="https://github.com/AutoCookies/Anomly_Activities_dection_realtime"><b>🕵️‍♂️ Anomaly Activities Detection Realtime</b></a>  
+- <a href="https://github.com/AutoCookies/Anomly_Activities_dection_realtime"><b>🕵️‍♂️ Self-taught Go Programming Language</b></a>  
   <sub>A real-time system for detecting anomalous activities using <b>Computer Vision</b> and <b>Deep Learning</b> techniques.  
   Built with <b>Python</b>, <b>OpenCV</b>, and <b>TensorFlow/PyTorch</b>.</sub>
 
