@@ -112,6 +112,9 @@ Each project is linked with a short description and key tech stack for clarity.
 - <a href="https://github.com/AutoCookies/Smart_Key_Logger"><b>Smart Key Logger</b></a>  
   <sub>Built with C++ for tracking the Keyboard and train AI model</sub>
 
+- <a href="https://github.com/AutoCookies/MVC_doan"><b>Luggage Selling Webisite</b></a>  
+  <sub>Built wwiht ASP .NET core and Having ChatBot</sub>
+
 ---
 
 ## 🧠 AI & Research  
