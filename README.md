@@ -149,6 +149,9 @@ Each project is linked with a short description and key tech stack for clarity.
   <sub>Developed an AI model to classify mushroom species from low-resolution images using <b>Convolutional Neural Networks (CNNs)</b>.  
   Implemented <b>data augmentation</b> and preprocessing techniques with <b>PyTorch</b> to improve accuracy.</sub>
 
+- <a href="https://github.com/AutoCookies/TreeSpeciesCLassification"><b>Tree Species Classification (Lidar Data)</b></a>  
+  <sub>Developed a model to classify tree species using <b>Lidar point cloud data</b>.  
+  Utilized <b>Python</b>, <b>NumPy</b>, and <b>scikit-learn</b> to preprocess data, extract features, and train classification models.</sub>
 ---
 
 ## My Livestream Repository
