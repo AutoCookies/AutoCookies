@@ -145,6 +145,10 @@ Each project is linked with a short description and key tech stack for clarity.
   <sub>A real-time system for detecting anomalous activities using <b>Computer Vision</b> and <b>Deep Learning</b> techniques.  
   Built with <b>Python</b>, <b>OpenCV</b>, and <b>TensorFlow/PyTorch</b>.</sub>
 
+- - <a href="https://github.com/AutoCookies/mushroom_classification"><b>Mushroom Classification (32x32 px)</b></a>  
+  <sub>Developed an AI model to classify mushroom species from low-resolution images using <b>Convolutional Neural Networks (CNNs)</b>.  
+  Implemented <b>data augmentation</b> and preprocessing techniques with <b>PyTorch</b> to improve accuracy.</sub>
+
 ---
 
 ## My Livestream Repository
