@@ -115,6 +115,15 @@ Each project is linked with a short description and key tech stack for clarity.
 - <a href="https://github.com/AutoCookies/MVC_doan"><b>Luggage Selling Webisite</b></a>  
   <sub>Built wwiht ASP .NET core and Having ChatBot</sub>
 
+- <a href="https://appointment1.cookiescooker.click/">Appointment Schedule Management System</a>
+<sub>Contains 4 role: Paitient, Doctor, Admin, Moderator. Buidling in ReactJS, ExpressJS</sub>
+
+- <a href="https://meme.cookiescooker.click/">Meme Caption Suggestion</a>
+<sub>A micro tool for speed up caption creation</sub>
+
+- <a href="https://emoji.cookiescooker.click/">Emoji Recommender</a>
+<sub>A micro tool for recommend emoji for content and also rewrite It</sub>
+
 ---
 
 ## 🧠 AI & Research  
