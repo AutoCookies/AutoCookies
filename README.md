@@ -16,7 +16,7 @@
 
 ## 🚀 About Me  
 
-🎓 A passionate **student & builder** who loves creating products, breaking limits, and re-imagining solutions.  
+🎓 A passionate **Software builder** who loves creating products, breaking limits, and re-imagining solutions.  
 🌱 Curious about **AI, System Design, and Product Development**.  
 💡 Motto: *"Be a creator, not just a user."*  
 
