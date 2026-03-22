@@ -15,17 +15,9 @@ I specialize in building high-performance systems from the ground up—ranging f
 
 Instead of relying on existing frameworks, I build core technologies to deeply understand how systems operate under the hood. Here is the ecosystem I am currently developing:
 
-### [PoOS](https://github.com/AutoCookies/poos)
-> **A custom-built Operating System engineered specifically for edge devices.**
-Focused on a minimal footprint, efficient resource management, and low-level hardware interaction.
-
 ### [PomaiDB](https://github.com/AutoCookies/pomaidb)
 > **High-performance Database Engine.**
 Designed for robust data storage and retrieval. Built with a focus on internal data structures, custom indexing, and optimized disk I/O.
-
-### [PomaiCache](https://github.com/AutoCookies/pomaicache)
-> **Ultra-fast, in-memory caching layer.**
-Engineered to reduce latency and handle high-throughput read/write operations efficiently.
 
 ### [palloc](https://github.com/AutoCookies/palloc)
 > **Custom Memory Allocator.**
