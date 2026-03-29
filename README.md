@@ -1,37 +1,50 @@
 # Quan Van (AutoCookies)
-**Software Engineer | Systems & Infrastructure**
-
-I specialize in building high-performance systems from the ground up—ranging from operating systems and database engines to custom memory allocators. My focus is on bare-metal performance, system architecture, and low-latency infrastructure.
+**Software Engineer | AI Researcher | Systems Optimizer**
 
 <p align="left">
-  <a href="mailto:vanhaminhquan2406@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/quan-van-15a5b3248/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AutoCookies"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:vanhaminhquan2406@gmail.com"><img src="[https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
+  <a href="[https://www.linkedin.com/in/quan-van-15a5b3248/](https://www.linkedin.com/in/quan-van-15a5b3248/)"><img src="[https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
+  <a href="[https://github.com/AutoCookies](https://github.com/AutoCookies)"><img src="[https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)" /></a>
 </p>
+
+---
+
+## 📖 My Story: The Pomai Philosophy
+
+Hi, I'm Quan. I am a software developer and a deeply passionate AI researcher. 
+
+My journey into software engineering wasn't paved with high-end servers, massive compute clusters, or expensive gear. Growing up in a family without a high income, my only window into the world of technology for years was a struggling 2016 laptop with just 2 CPU cores, 8GB of RAM, and absolutely no GPU. 
+
+I experienced firsthand the frustration of hardware limitations—the endless waiting, the crashes, the inability to run modern frameworks. But that struggle became my greatest teacher. When your resources are practically zero, you don't rely on bloated abstractions; you learn to dig deep into the bare metal. You learn to squeeze every single drop of performance out of the hardware you have.
+
+That is the soul behind my brand, **Pomai** (Pomegranate). A pomegranate is made of many tiny, fragile seeds. Individually, they are small and vulnerable. But when tightly bound together by a protective membrane, they form a complete, resilient, and beautiful fruit. 
+
+This GitHub profile is the living diary of my work. Everything I build here is driven by a single, unwavering mission: **to build profoundly optimized, high-performance tools for individuals like me.** For the students, the dreamers, and the developers who don't have money or powerful hardware, but who still deserve to run bleeding-edge software at absolute maximum speed.
 
 ---
 
 ## 🏗️ Core Infrastructure Projects
 
-Instead of relying on existing frameworks, I build core technologies to deeply understand how systems operate under the hood. Here is the ecosystem I am currently developing:
+I don't just use existing frameworks; I build core technologies from the ground up to ensure they can run on almost anything. Here is the ecosystem I am currently developing:
 
 ### [PomaiDB](https://github.com/AutoCookies/pomaidb)
-> **High-performance Database Engine.**
-Designed for robust data storage and retrieval. Built with a focus on internal data structures, custom indexing, and optimized disk I/O.
+> **High-performance, Low-resource Database Engine.**
+Designed for robust data storage and retrieval on constrained hardware. Built with a fierce focus on custom internal data structures, hyper-optimized indexing, and minimizing disk I/O to keep older machines breathing easily while processing heavy data.
 
 ### [palloc](https://github.com/AutoCookies/palloc)
 > **Custom Memory Allocator.**
-A highly optimized memory management library designed to replace standard `malloc`/`free` in performance-critical applications, reducing fragmentation and allocation overhead.
+When you only have 8GB of RAM, every byte is sacred. `palloc` is a highly optimized memory management library designed to replace standard `malloc`/`free`. It ruthlessly cuts down memory fragmentation and allocation overhead for performance-critical applications.
 
 ### [CheeseBrain](https://github.com/AutoCookies/cheesebrain)
 > **Core processing engine & logic system.**
-A specialized system integrating internal submodules (including `palloc` and context-squeezing mechanisms) to handle complex operations and resource management efficiently.
+A specialized, lightweight system integrating internal submodules (including `palloc` and context-squeezing mechanisms) to handle complex AI logic and operations without melting your CPU. 
 
 ---
 
 ## ⚙️ Technical Arsenal
 
 - **Systems Programming:** C++, Assembly, Memory Management, OS Development
-- **Architecture:** System Design, Distributed Systems, Multi-threading, Low-latency computing
-- **Infrastructure:** Database Internals, Caching Mechanisms, Custom Allocators
+- **AI & Machine Learning:** Deep Learning on constrained devices, Data Mining, Computer Vision
+- **Architecture:** System Design, Multi-threading, Low-latency computing, Hardware-sympathetic coding
+- **Infrastructure:** Database Internals, Custom Allocators, Bare-metal optimizations
 - **Tools:** Git, Linux internals, QEMU, GDB, CMake
